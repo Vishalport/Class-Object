@@ -1,9 +1,6 @@
 //============================================================================
 // Name        : new__class.cpp
 // Author      : mr.softwear !!
-// Version     : 2020
-// Copyright   :own
-// Description : Hello World in C++, Ansi-style
 //============================================================================
 /*
  * wring code using class (function are using inside the class
